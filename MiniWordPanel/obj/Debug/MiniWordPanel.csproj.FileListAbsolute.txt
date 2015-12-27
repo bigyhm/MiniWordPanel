@@ -1,0 +1,11 @@
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\obj\Debug\MiniWordPanel.MiniwordPanelForm.resources
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\obj\Debug\MiniWordPanel.Properties.Resources.resources
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\obj\Debug\MiniWordPanel.WordUniverse.resources
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\obj\Debug\MiniWordPanel.csproj.GenerateResource.Cache
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\bin\Debug\MiniWordPanel.exe.config
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\bin\Debug\MiniWordPanel.exe
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\bin\Debug\MiniWordPanel.pdb
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\bin\Debug\DocumentFormat.OpenXml.dll
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\obj\Debug\MiniWordPanel.exe
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\obj\Debug\MiniWordPanel.pdb
+D:\PersonalFiles\ACMCodes\MiniWordPanel\MiniWordPanel\obj\Debug\MiniWordPanel.csprojResolveAssemblyReference.cache
