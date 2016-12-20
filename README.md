@@ -7,5 +7,5 @@ A project to show the English words and Chinese words in pair
 
 ![打开的界面](https://raw.githubusercontent.com/yinhaomin/MiniWordPanel/master/MiniWordPanel/images/1.png)
 
-## 打开的界面
+## 运行的界面
 ![运行的界面](https://raw.githubusercontent.com/yinhaomin/MiniWordPanel/master/MiniWordPanel/images/2.png)
